@@ -1,7 +1,7 @@
 ﻿import sys
 import codecs
 
-hws_fn= sys.argv[1] # list of headwords (plus id plus posp plus existing examples)
+hws_fn= sys.argv[1] # list of headwords (plus id plus posp plus existing examples
 greylist_fn = sys.argv[2]
 out_fn = sys.argv[3]
 
